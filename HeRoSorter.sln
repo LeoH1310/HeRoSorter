@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeRoSorter", "HeRoSorter.csproj", "{CCD47007-C6F2-4B62-ADCC-93B526935EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD47007-C6F2-4B62-ADCC-93B526935EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD47007-C6F2-4B62-ADCC-93B526935EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD47007-C6F2-4B62-ADCC-93B526935EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD47007-C6F2-4B62-ADCC-93B526935EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E6810B-98BC-4046-BD1E-46DDFD7BE455}
+	EndGlobalSection
+EndGlobal
