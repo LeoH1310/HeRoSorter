@@ -1,3 +1,3 @@
 # HeRoSorter
 
-.NET Windows Forms Application written in C# for autmated sorting of video files.
+.NET Windows Forms Application written in C# for automated sorting of video files.
